@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Society_Management_System
 {
-    public partial class UserPage : Form
+    public partial class UserPanel : Form
     {
-        public UserPage()
+        public UserPanel()
         {
             InitializeComponent();
         }

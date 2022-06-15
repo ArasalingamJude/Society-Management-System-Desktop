@@ -32,3 +32,37 @@ E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\P
 E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\MySqlConnector.dll
 E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.UserPage1.resources
 E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.CopyComplete
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Society Management System.exe
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Society Management System.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Society Management System.deps.json
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Society Management System.runtimeconfig.json
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\ref\Society Management System.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Society Management System.pdb
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\bin\Debug\net6.0-windows\MySqlConnector.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.AssemblyReference.cache
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.AddSociety.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.AdminPanel.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.AllocateHouse.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.LoginForm.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.MainForm.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.Properties.Resources.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.UserPage1.resources
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.GenerateResource.cache
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.AssemblyInfoInputs.cache
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.AssemblyInfo.cs
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.CoreCompileInputs.cache
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.CopyComplete
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\ref\Society Management System.dll
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.pdb
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society Management System.genruntimeconfig.cache
+G:\Project\Society-Management-System-Desktop\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.UserPanel.resources

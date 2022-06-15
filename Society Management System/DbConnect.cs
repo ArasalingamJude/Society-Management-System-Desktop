@@ -13,7 +13,7 @@ namespace Society_Management_System
         {
             string connetionString = null;
             MySqlConnection connection;
-            connetionString = @"server=localhost; port=3306 userid=root;password='';database=societymanagement";
+            connetionString = @"Server=127.0.0.1;Port=3306;Uid=root;Pwd=;Database=societymanagement";
             connection = new MySqlConnection(connetionString);
             return connection;
         }

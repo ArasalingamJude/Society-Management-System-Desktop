@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\STUDY\\Fourth Year\\First Semester\\Practical For Advance Software Engineering\\Project\\Society Management System\\Society Management System\\Society Management System.csproj": {}
+    "G:\\Project\\Society-Management-System-Desktop\\Society Management System\\Society Management System.csproj": {}
   },
   "projects": {
-    "E:\\STUDY\\Fourth Year\\First Semester\\Practical For Advance Software Engineering\\Project\\Society Management System\\Society Management System\\Society Management System.csproj": {
+    "G:\\Project\\Society-Management-System-Desktop\\Society Management System\\Society Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\STUDY\\Fourth Year\\First Semester\\Practical For Advance Software Engineering\\Project\\Society Management System\\Society Management System\\Society Management System.csproj",
+        "projectUniqueName": "G:\\Project\\Society-Management-System-Desktop\\Society Management System\\Society Management System.csproj",
         "projectName": "Society Management System",
-        "projectPath": "E:\\STUDY\\Fourth Year\\First Semester\\Practical For Advance Software Engineering\\Project\\Society Management System\\Society Management System\\Society Management System.csproj",
-        "packagesPath": "C:\\Users\\Jude\\.nuget\\packages\\",
-        "outputPath": "E:\\STUDY\\Fourth Year\\First Semester\\Practical For Advance Software Engineering\\Project\\Society Management System\\Society Management System\\obj\\",
+        "projectPath": "G:\\Project\\Society-Management-System-Desktop\\Society Management System\\Society Management System.csproj",
+        "packagesPath": "C:\\Users\\Genesis\\.nuget\\packages\\",
+        "outputPath": "G:\\Project\\Society-Management-System-Desktop\\Society Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jude\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Genesis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -67,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

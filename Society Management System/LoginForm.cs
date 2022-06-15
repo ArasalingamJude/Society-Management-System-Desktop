@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using Society_Management_System.Models;
 
 namespace Society_Management_System
 {
@@ -20,56 +21,73 @@ namespace Society_Management_System
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            //Login Logic
-            bool loginSucceed = true;
-
             String userName = txtUserName.Text;
             String password = txtPassword.Text;
-            //loginSucceed = this.loginProcess(userName,password);
 
-            if (loginSucceed)
+            //Login process
+            User user = this.loginProcess(userName, password);
+
+            if (!user.isConnected)
             {
-                this.Hide();
-                AdminPanel adminPanel = new AdminPanel();
-                adminPanel.Show();
+                lblAlert.Visible = true;
+                lblAlert.Text = "Database Connection Failed";
+                return;
+            }
+            //if the login process succeed...
+            if (user.loginSucceed)
+            {
+                ActiveForm.Hide();
+                //Checking the user role
+                if (user.Role == "admin"){
+                    AdminPanel adminPanel = new AdminPanel();
+                    adminPanel.Show();
+                }
+                if (user.Role == "standard")
+                {
+                    UserPanel userPanel = new UserPanel();
+                    userPanel.Show();
+                }
+            }
+            //if the login process failed...
+            else
+            {
+                lblAlert.Visible = true;
+                lblAlert.Text = "Check your Username and Password";
             }
         }
 
-        private Boolean loginProcess(String username, String password)
+        private User loginProcess(String username, String password)
         {
             DbConnect connection = new DbConnect();
             MySqlConnection cnn = connection.DatabaseConnect();
-            
+
+            User user = new User();
             try
             {
                 cnn.Open();
-                //MessageBox.Show("Connection Open ! ");
+
                 string stm = "SELECT * from users where username=\"" + username + "\" and password=\"" + password + "\"";
                 MySqlCommand cmd = new MySqlCommand(stm, cnn);
                 MySqlDataReader rdr = null;
                 rdr = cmd.ExecuteReader();
+                
                 if (rdr.Read())
                 {
-                    //MessageBox.Show(rdr["username"].ToString()+ rdr["password"].ToString());
+                    user = new User(rdr.GetString("id"), rdr.GetString("username"), rdr.GetString("role"));
                     cnn.Close();
-                    ActiveForm.Hide();
-                    new MainForm().Show();
+                    return user;
                 }
                 else
                 {
-                    lblAlert.Visible = true;
-                    lblAlert.Text = "Check your Username and Password";
+                    cnn.Close();
+                    return user;
                 }
 
             }
             catch (Exception ex)
             {
-                //pictureBox1.Visible = false;
-                lblAlert.Visible = true;
-                lblAlert.Text = "Database Connection Failed";
+                return user;
             }
-            return true;
-
         }
     }
 }

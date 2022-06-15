@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bcd5a1f-15d5-45e5-a67f-27a3845d7b46": {
+      "ProjectGuid": "9bcd5a1f-15d5-45e5-a67f-27a3845d7b46",
+      "DisplayName": "Society Management System",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

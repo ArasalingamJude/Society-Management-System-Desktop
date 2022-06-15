@@ -1,6 +1,6 @@
 ﻿namespace Society_Management_System
 {
-    partial class UserPage
+    partial class UserPanel
     {
         /// <summary>
         /// Required designer variable.
