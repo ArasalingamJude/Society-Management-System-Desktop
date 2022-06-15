@@ -1,0 +1,34 @@
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Society Management System.exe
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Society Management System.deps.json
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Society Management System.runtimeconfig.json
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Society Management System.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Society Management System.pdb
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.AssemblyReference.cache
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.AdminPanel.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.LoginForm.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.MainForm.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.GenerateResource.cache
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.AssemblyInfoInputs.cache
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.AssemblyInfo.cs
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.CoreCompileInputs.cache
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\refint\Society Management System.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.pdb
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.genruntimeconfig.cache
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\ref\Society Management System.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.Properties.Resources.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.AddSociety.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.AllocateHouse.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.UserPage.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\bin\Debug\net6.0-windows\MySqlConnector.dll
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society_Management_System.UserPage1.resources
+E:\STUDY\Fourth Year\First Semester\Practical For Advance Software Engineering\Project\Society Management System\Society Management System\obj\Debug\net6.0-windows\Society Management System.csproj.CopyComplete
