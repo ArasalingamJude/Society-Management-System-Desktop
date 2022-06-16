@@ -39,13 +39,16 @@ namespace Society_Management_System
                 ActiveForm.Hide();
                 //Checking the user role
                 if (user.Role == "admin"){
-                    AdminPanel adminPanel = new AdminPanel();
-                    adminPanel.Show();
+                    //AdminPanel adminPanel = new AdminPanel();
+                    //adminPanel.Show();
+                   
                 }
                 if (user.Role == "standard")
                 {
-                    UserPanel userPanel = new UserPanel();
-                    userPanel.Show();
+                    //UserPanel userPanel = new UserPanel();
+                    //userPanel.Show();
+                    AllocateHouse alHouse = new AllocateHouse();
+                    alHouse.Show();
                 }
             }
             //if the login process failed...

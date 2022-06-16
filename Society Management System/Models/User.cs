@@ -15,6 +15,7 @@ namespace Society_Management_System.Models
         //Database fields
         public String Id { get; set; }
         public String UserName { get; set; }
+        public String Password { get; set; }
         public String Role { get; set; }
 
         public User()
